@@ -1,12 +1,10 @@
 # Juegos-Print-and-Play
 
-Estos juegos se comparten con el animo de que puedan ser simplemente impresos en tu material favorito y puedas divertirte con tu familia y amigos. Ten en cuenta que este repositorio se estara actualizando y se subiran juegos nuevos para que estes pendiente!
+Estos juegos se comparten con el animo de que puedan ser simplemente impresos en tu material favorito y puedas divertirte con tu familia y amigos. Ten en cuenta que este repositorio se estara actualizando y se subiran juegos nuevos para que estes pendiente! Imprime y disfruta...
 
 # Como apoyar
 
 Puedes apoyarnos obteniendo/comprando los juegos de paga en el siguiente link: https://www.mixo.io/site/juegos-de-mesa-iv0tl
-
-Imprime y disfruta
 
 ## Cajas para mis juegos
 
