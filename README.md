@@ -1,6 +1,6 @@
 # Juegos-Print-and-Play
 
-Estos juegos se comparten con el animo de que puedan ser simplemente impresos en tu material favorito y puedas divertirte con tu familia y amigos. Ten en cuenta que este repositorio se estara actualizando y se subiran juegos nuevos para que estes pendiente! Imprime y disfruta...
+Estos juegos se comparten con el ánimo de que puedan ser simplemente impresos en tu material favorito y puedas divertirte con tu familia y amigos. ¡Ten en cuenta que este repositorio se estará actualizando y se subirán juegos nuevos para que estes pendiente! Imprime y disfruta...
 
 # Como apoyar
 
